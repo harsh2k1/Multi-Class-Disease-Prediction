@@ -12,8 +12,8 @@ Cardiac Arrythmia is a common heart disease. I have used data mining techniques 
 
 <br><br>
 # 2. Diabetes Prediction
-+ Dataset: <a href = "https://github.com/harsh2k1/Multi-Class-Disease-Prediction/blob/main/Final%20Code/Diabetes/diabetes.csv"></a>
-+Code for modelling can be found <a href = "https://github.com/harsh2k1/Multi-Class-Disease-Prediction/blob/main/Final%20Code/Diabetes/DiabetesPrediction.ipynb">here</a>
++ Dataset: <a href = "https://github.com/harsh2k1/Multi-Class-Disease-Prediction/blob/main/Final%20Code/Diabetes/diabetes.csv">diabetes-data</a>
++ Code for modelling can be found <a href = "https://github.com/harsh2k1/Multi-Class-Disease-Prediction/blob/main/Final%20Code/Diabetes/DiabetesPrediction.ipynb">here</a>
 <br><br>
 # 3. Kidney Disease Prediction
 code for modelling can be found <a href = "https://github.com/harsh2k1/Project-Multiple-Disease-Prediction-Web-App/blob/main/kidneyDiseasePrediction.ipynb">here</a>
