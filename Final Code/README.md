@@ -16,10 +16,14 @@ Cardiac Arrythmia is a common heart disease. I have used data mining techniques 
 + Code for modelling can be found <a href = "https://github.com/harsh2k1/Multi-Class-Disease-Prediction/blob/main/Final%20Code/Diabetes/DiabetesPrediction.ipynb">here</a>
 <br><br>
 # 3. Kidney Disease Prediction
-code for modelling can be found <a href = "https://github.com/harsh2k1/Project-Multiple-Disease-Prediction-Web-App/blob/main/kidneyDiseasePrediction.ipynb">here</a>
++ Dataset: <a href = "https://github.com/harsh2k1/Multi-Class-Disease-Prediction/blob/main/Final%20Code/Kidney%20Disease/kidney_disease.csv">kidney-data</a>
++ Code for modelling can be found <a href = "https://github.com/harsh2k1/Multi-Class-Disease-Prediction/blob/main/Final%20Code/Kidney%20Disease/kidneyDiseasePrediction.ipynb">here</a>
 <br><br>
 # 4. Stroke Prediction
-code for modelling can be found <a href = 'https://github.com/harsh2k1/Project-Multiple-Disease-Prediction-Web-App/blob/main/Stroke_Prediction.ipynb'>here</a>
++ Dataset: <a href = "+ Dataset: <a href = "https://github.com/harsh2k1/Multi-Class-Disease-Prediction/blob/main/Final%20Code/Stroke/stroke-data.csv">stroke-data</a>
++ Code for modelling can be found <a href = "https://github.com/harsh2k1/Multi-Class-Disease-Prediction/blob/main/Final%20Code/Stroke/Stroke_Prediction.ipynb">here</a>
+<br><br>">diabetes-data</a>
++ Code for modelling can be found <a href = "https://github.com/harsh2k1/Multi-Class-Disease-Prediction/blob/main/Final%20Code/Diabetes/DiabetesPrediction.ipynb">here</a>
 <br><br>
 # 5. Web App
 code for the frontend using Streamlit can be found <a href = 'https://github.com/harsh2k1/Project-Multiple-Disease-Prediction-Web-App/blob/main/app.py'>here</a>
